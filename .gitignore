@@ -1,0 +1,22 @@
+# Restricted data
+data/*
+
+# Keep folder structure
+!data/.gitkeep
+!results/.gitkeep
+!results/figures/.gitkeep
+!results/tables/.gitkeep
+!docs/.gitkeep
+
+# SAS outputs and logs
+*.log
+*.lst
+*.rtf
+*.pdf
+*.html
+*.sas7bdat
+*.bak
+
+# OS / editor files
+.DS_Store
+Thumbs.db
