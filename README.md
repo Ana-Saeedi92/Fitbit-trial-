@@ -31,3 +31,10 @@ Cost aggregation by place of service
 Pre–post comparisons within individuals
 Change-score analysis
 Between-group comparisons (intervention vs control)
+
+## Methods
+
+- Descriptive statistics for baseline characteristics  
+- Longitudinal comparisons (baseline vs follow-up)  
+- Mixed-effects modeling for repeated measures  
+- Cost and utilization analysis using claims data  
