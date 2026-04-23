@@ -1,5 +1,4 @@
 libname dira 'C:\Users\saeeda1\OneDrive - UMass Chan Medical School\Documents\Disseration research\sas code\results paper\Data Final';
-*libname dir '\\umwssnas01.ad.umassmed.edu\QMCencrypted$\fitbit\quest_data';
 
 proc sort data=dira.fitbit out=sfit; by subject_id; run;
 data temp_fitbit_long;
