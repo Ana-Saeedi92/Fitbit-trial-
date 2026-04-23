@@ -6,9 +6,9 @@ This repository contains a complete analytical workflow for evaluating a workpla
 
 The analysis integrates:
 
-# Behavioral survey outcomes
-# Clinical and cardiometabolic risk factors
-# Healthcare utilization (claims data)
+## Behavioral survey outcomes
+## Clinical and cardiometabolic risk factors
+## Healthcare utilization (claims data)
 
 The goal is to assess how digital behavioral interventions impact health outcomes and healthcare use over time.
 
