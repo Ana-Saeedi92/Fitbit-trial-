@@ -1,9 +1,5 @@
 /*===========================================================
   Fitbit Risk Scores and Biometrics Analysis
-  Public-facing cleaned version of the original workflow
-  - Uses project-relative paths
-  - Keeps analysis logic intact
-  - Expects restricted datasets to be placed in ./data
 ===========================================================*/
 options dlcreatedir;
 
