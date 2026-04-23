@@ -12,7 +12,7 @@ The analysis integrates:
 
 The goal is to assess how digital behavioral interventions impact health outcomes and healthcare use over time.
 
-# Key Analyses
+## Key Analyses
 1. Behavioral Outcomes (Survey Data)
 Long → wide data transformation
 Baseline vs 12-month comparisons
