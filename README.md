@@ -38,3 +38,13 @@ Between-group comparisons (intervention vs control)
 - Longitudinal comparisons (baseline vs follow-up)  
 - Mixed-effects modeling for repeated measures  
 - Cost and utilization analysis using claims data  
+
+
+##  Data Availability
+
+The datasets used in this project are not publicly available due to privacy and institutional restrictions.
+
+However:
+- All analysis code is fully reproducible
+- Data structure and variable names are preserved in the scripts
+- The workflow can be adapted to similar datasets
